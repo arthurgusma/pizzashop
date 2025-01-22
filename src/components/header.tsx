@@ -1,7 +1,7 @@
 import { Home, Pizza, UtensilsCrossed } from 'lucide-react'
 import { NavLink } from './nav-link'
 import { Separator } from './ui/separator'
-import { ModeToggle } from './mode-toggle'
+import { ModeToggle } from './theme/theme-toggle'
 import { AccountMenu } from './account-menu'
 
 export function Header() {
