@@ -32,7 +32,7 @@ export function SignUp() {
       await newRestaurant({ 
         email: data.email,
         phone: data.phone,
-        managarName: data.managerName,
+        managerName: data.managerName,
         restaurantName: data.restaurantName
       })
 
